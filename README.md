@@ -17,7 +17,8 @@ Created an Accordion using HTML and CSS✌️.
 - JavaScript: A programming language for adding interactivity to web applications.
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications.
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css, git, github)](https://skills.thijs.gg)
+- <br>
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css, git)](https://skills.thijs.gg)
 
 ## Installation
 To run this portfolio locally, follow these steps:
