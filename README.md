@@ -12,12 +12,7 @@ Created an Accordion using HTML and CSS✌️.
 - [License](#license)
 
 ## Technologies Used
-- React.js: A JavaScript library for building user interfaces.
-- HTML5 & CSS3: Markup and styling languages for building web pages.
-- JavaScript: A programming language for adding interactivity to web applications.
-- Git: A version control system for tracking changes and collaborating on projects.
-- GitHub Pages: A platform for hosting and deploying web applications.
-- [![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
 
 ## Installation
 To run this portfolio locally, follow these steps:
